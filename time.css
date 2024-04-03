@@ -1,0 +1,36 @@
+.white_box {
+    margin-top: 20%;
+    justify-content: center;
+    margin-left: 10px;
+    /* background: linear-gradient(to bottom right, #265f54, #61322b); */
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    box-shadow: 4px 4px 8px 4px rgba(34, 34, 34, 0.944), 4px 4px 8px 4px rgba(38, 38, 39, 0.96), 4px 6px 20px 4px rgba(29, 28, 28, 0.922);
+}
+
+.time {
+    display: flex;
+
+    justify-content: center;
+    border: 8px solid rgba(207, 198, 192, 0.874);
+    border-spacing: 50px;
+
+
+}
+
+.simple_style {
+    border: 2px solid black;
+    padding: 10px;
+    color: red;
+
+    font-family: Orbitron, sans-serif;
+    letter-spacing: 1px;
+
+}
+
+.coln {
+    padding: 10px;
+    color: red;
+}
